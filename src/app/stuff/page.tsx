@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-export default function HomeIndex() {
+export default function StuffIndex() {
   return (
     <div className="container relative">
-      <p>home</p>
+      <p>stuff</p>
     </div>
   )
 }
